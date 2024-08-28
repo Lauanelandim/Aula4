@@ -1,0 +1,22 @@
+body{
+    color:black;
+    /*background-color: linear-gradient(violet, yellow);*/
+
+    background-image: url(https://makuroonline.wordpress.com/wp-content/uploads/2017/10/beautiful_collages_22.jpg);
+    background-size: cover;
+    
+}
+
+p, ul{
+    color:violet;
+    background-color:black;
+    font-size: 20px; /* Comentários no css*/
+    text-align: center;
+}
+/*.Titulo{
+
+}
+
+ /*#seletor {
+
+}
